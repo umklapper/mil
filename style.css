@@ -1,0 +1,23 @@
+body {
+    min-height: 150vh;
+  }
+  #navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: black;
+  }
+  nav ul {
+    margin: 15px;
+    padding: 5px 0px 5px 30px;
+  }
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    text-decoration: none;
+    color: red;
+    font-size: 35px;
+  }
